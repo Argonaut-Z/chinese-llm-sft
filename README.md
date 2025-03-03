@@ -151,7 +151,7 @@ python train_qwen2_ner.py --train_file data/train_ner.jsonl --output_dir output/
 
 在SwanLab上可以看到训练的loss变化
 
-![alt text](img/ner_loss-1740992043087-2.png)
+![alt text](img/ner_loss.png)
 
 ## 6. 模型结果
 
